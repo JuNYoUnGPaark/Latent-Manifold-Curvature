@@ -17,3 +17,11 @@
       <img src="https://img.shields.io/badge/Dimension Reduction-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 </p>
+
+<p align="center">
+
+  <span style="margin-right: 8px;">
+    <a href="https://wheat-range-dd8.notion.site/Machine-Learning-Log-Likelihood-2c9ccff627fb8095afabf0d3e7c46070" target="_blank">
+      <img src="https://img.shields.io/badge/Log-Likelihood-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  </span>
+</p>
