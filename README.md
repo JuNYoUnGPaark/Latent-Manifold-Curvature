@@ -1,1 +1,19 @@
-# Latent-Manifold-Curvature
+<h1 align="center">Latent-Manifold-Curvature</h1>
+
+<p align="center">
+  <em>...</em>
+</p>
+
+<p align="center">
+  "..."
+</p>
+
+---
+
+<p align="center">
+
+  <span style="margin-right: 8px;">
+    <a href="https://wheat-range-dd8.notion.site/Dimensionality-Reduction-2c8ccff627fb80f098b8f97e97ab7a9f" target="_blank">
+      <img src="https://img.shields.io/badge/Dimension Reduction-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  </span>
+</p>
