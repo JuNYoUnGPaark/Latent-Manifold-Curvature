@@ -1,6 +1,14 @@
 <p align="center">
 
   <span style="margin-right: 8px;">
+    <a href="https://www.notion.so/Latent-Manifold-Curvature-2c6ccff627fb80439b32e6fec280afcf" target="_blank">
+      <img src="https://img.shields.io/badge/Latent Manifold Curvature-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  </span>
+</p>
+
+<p align="center">
+
+  <span style="margin-right: 8px;">
     <a href="https://wheat-range-dd8.notion.site/Dimensionality-Reduction-2c8ccff627fb80f098b8f97e97ab7a9f" target="_blank">
       <img src="https://img.shields.io/badge/Dimension Reduction-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
@@ -21,3 +29,5 @@
       <img src="https://img.shields.io/badge/AutoEncoder-14213D?style=for-the-badge&logo=notion&logoColor=white" /></a>
   </span>
 </p>
+
+
