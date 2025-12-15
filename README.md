@@ -1,15 +1,3 @@
-<h1 align="center">Latent-Manifold-Curvature</h1>
-
-<p align="center">
-  <em>...</em>
-</p>
-
-<p align="center">
-  "..."
-</p>
-
----
-
 <p align="center">
 
   <span style="margin-right: 8px;">
