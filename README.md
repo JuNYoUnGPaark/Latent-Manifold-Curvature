@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://www.notion.so/Latent-Manifold-Curvature-2c6ccff627fb80439b32e6fec280afcf" target="_blank">
-    <img src="https://img.shields.io/badge/Latent%20Manifold%20Curvature-2B2B2B?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
   <a href="https://wheat-range-dd8.notion.site/Codes-2caccff627fb805eb647f2f4a78564c5" target="_blank">
     <img src="https://img.shields.io/badge/Code-2B2B2B?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
