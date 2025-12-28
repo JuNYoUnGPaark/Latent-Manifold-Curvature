@@ -5,6 +5,9 @@
   <a href="https://wheat-range-dd8.notion.site/Experiment-2caccff627fb8053a408f9b48347cbab" target="_blank">
     <img src="https://img.shields.io/badge/Experiment%20Protocol-2B2B2B?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+    <a href="https://wheat-range-dd8.notion.site/2d7ccff627fb808dab92ff4f9453bb71" target="_blank">
+    <img src="https://img.shields.io/badge/Generalization Experiment-2B2B2B?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
